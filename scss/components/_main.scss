@@ -1,0 +1,11 @@
+.main {
+    & .find {
+        min-width: 700px;
+    }
+    & .work {
+        min-width: 700px;
+    }
+    &__find {
+        display: flex;
+    }
+}

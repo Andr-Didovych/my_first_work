@@ -1,1 +1,1 @@
-# my_first_work
+Hello, this is my first project. I used HTML5 and SCSS compiled into CSS in my work. I hope you like it. Enjoy!
